@@ -17,7 +17,7 @@ const Contact = () => {
         <div className="contact-icons">
           <a href="https://github.com/GuptaGaurav2910"><i className="fa-brands fa-github fa-beat-fade"></i></a>
           <a href="https://x.com/gauravg10548425"><i className="fa-brands fa-twitter fa-shake"></i></a>
-          <a href="https://api.whatsapp.com/send?phone=7733841942&text=%22Hello%20Gaurav!%20%F0%9F%8C%9F%20%20Thank%20you%20so%20much%20for%20taking%20the%20time%20to%20connect%20with%20me%20here.%20I%20really%20appreciate%20it!%20Looking%20forward%20to%20our%20conversation.%22"><i className="fa-brands fa-whatsapp fa-beat-fade"></i></a>
+          <a href="/"><i className="fa-brands fa-whatsapp fa-beat-fade"></i></a>
           <a href="https://www.linkedin.com/in/gaurav-g-8337b6234/"><i className="fa-brands fa-linkedin fa-shake"></i></a>
         </div>
       </div>
